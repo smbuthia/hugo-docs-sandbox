@@ -26,7 +26,7 @@ Are there any system requirements for using your project? What languages are sup
 
 Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
 
-## Setup
+## Setup now
 
 Is there any initial setup users need to do after installation to try your project?
 
