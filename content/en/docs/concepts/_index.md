@@ -1,6 +1,7 @@
 ---
 title: Concepts
 weight: 4
+lastmod: {{ .Lastmod | time.Format ":date_medium" }}
 description: >
   What does your user need to understand about your project in order to use it - or potentially contribute to it?
 ---
