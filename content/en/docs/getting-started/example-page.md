@@ -11,6 +11,8 @@ tags: [test, sample, docs]
 This is a placeholder page. Replace it with your own content.
 {{% /pageinfo %}}
 
+Test
+{{< csv-to-table "Book1.csv" >}}
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
 
